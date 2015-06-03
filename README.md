@@ -5,5 +5,5 @@ Useful links for future reference/research/discussion
 
 ### Filtering
 
-* [How to Design 'Applied Filters' (42% Get It Wrong)]http://baymard.com/blog/how-to-design-applied-filters
+* [How to Design 'Applied Filters' (42% Get It Wrong)](http://baymard.com/blog/how-to-design-applied-filters)
 
