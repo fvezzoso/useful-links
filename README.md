@@ -20,7 +20,7 @@ Useful links for future reference/research/discussion
 
 ### Node.js
 
-* <div What="Node.js?" is="" the="" best="" way="" to="" deploy=""></div>(http://www.reddit.com/r/node/comments/38bnzi/what_is_the_best_way_to_deploy_nodejs/)
+* [What is the best way to deploy Node.js](http://www.reddit.com/r/node/comments/38bnzi/what_is_the_best_way_to_deploy_nodejs/)
 
 # Libraries
 
