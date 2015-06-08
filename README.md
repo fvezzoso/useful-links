@@ -1,6 +1,8 @@
 # useful-links
 Useful links for future reference/research/discussion
 
+# Articles
+
 ## UX
 
 ### Filtering
@@ -13,6 +15,10 @@ Useful links for future reference/research/discussion
 ### Performance
 
 * [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+
+## Git
+
+* [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 # Discussions
 
