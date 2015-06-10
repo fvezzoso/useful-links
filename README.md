@@ -39,3 +39,7 @@ Useful links for future reference/research/discussion
 ### React.js
 
 * [A collection of dialog animations with React.js.](http://madscript.com/boron/)
+
+### Filtering
+
+* [Fast Multidimensional Filtering for Coordinated Views](http://square.github.io/crossfilter/)
