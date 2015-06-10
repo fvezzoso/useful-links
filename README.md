@@ -35,3 +35,7 @@ Useful links for future reference/research/discussion
 ### AngularJS
 
 * [Inline Editing](http://vitalets.github.io/angular-xeditable)
+
+### React.js
+
+* [A collection of dialog animations with React.js.](http://madscript.com/boron/)
