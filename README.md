@@ -3,6 +3,12 @@ Useful links for future reference/research/discussion
 
 # Articles
 
+## JavaScript
+
+### ES6
+
+* [ECMAScript 6 Power Tutorial](http://code.tutsplus.com/series/ecmascript-6-power-tutorial--cms-833)
+
 ## UX
 
 ### Filtering
