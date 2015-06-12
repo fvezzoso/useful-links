@@ -8,6 +8,7 @@ Useful links for future reference/research/discussion
 ### ES6
 
 * [ECMAScript 6 Power Tutorial](http://code.tutsplus.com/series/ecmascript-6-power-tutorial--cms-833)
+* [Setting up an ES6 Project Using Babel and Browserify](http://www.sitepoint.com/setting-up-es6-project-using-babel-browserify/?utm_source=javascriptweekly&utm_medium=email)
 
 ## UX
 
