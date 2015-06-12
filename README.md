@@ -10,6 +10,14 @@ Useful links for future reference/research/discussion
 * [ECMAScript 6 Power Tutorial](http://code.tutsplus.com/series/ecmascript-6-power-tutorial--cms-833)
 * [Setting up an ES6 Project Using Babel and Browserify](http://www.sitepoint.com/setting-up-es6-project-using-babel-browserify/?utm_source=javascriptweekly&utm_medium=email)
 
+### ES5
+
+* [Speaking JavaScript Book by Dr. Axel Rauschmayer](http://speakingjs.com/es5/)
+
+### Debugging
+
+*[Chrome’s Console API: Greatest Hits](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
+
 ## UX
 
 ### Filtering
