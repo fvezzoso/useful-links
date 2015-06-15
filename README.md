@@ -58,3 +58,9 @@ Useful links for future reference/research/discussion
 ### Filtering
 
 * [Fast Multidimensional Filtering for Coordinated Views](http://square.github.io/crossfilter/)
+
+## CSS
+
+### Unused CSS
+
+*[Remove unused CSS. Also works on single-page apps.](https://github.com/purifycss/purifycss)
